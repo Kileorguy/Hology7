@@ -1,6 +1,8 @@
 *.png
 *.jpg
 *.csv
+*.h5
 
 train
 test
+
